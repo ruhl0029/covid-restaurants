@@ -1,0 +1,24 @@
+Industry,NAICS,Q4_r65_p,Q4_r65_p_se
+"Total U.S., private sector",00,41.86,0.42
+"Agriculture, Forestry, Fishing and Hunting",11,29.05,3.4
+"Mining, Quarrying, and Oil and Gas Extraction",21,54.92,4.95
+Utilities,22,73.92,2.05
+Construction,23,35.8,0.73
+Manufacturing,31-33,53.05,0.63
+Wholesale Trade,42,59.33,1.66
+Retail Trade,44-45,40.11,0.69
+Transportation and Warehousing (excluding Scheduled Air Transportation and Truck Transportation),48-49A,42.98,3.78
+Scheduled Air Transportation,4811,68.83,2.48
+Truck Transportation,484,35.64,3.72
+Information,51,47.15,3.69
+Finance and Insurance,52,62.36,2.19
+Real Estate and Rental and Leasing,53,39.97,2.14
+Professional and Technical Services,54,42.93,1.35
+Management of Companies and Enterprises,55,65.48,2.27
+Administrative and Waste Services,56,34.04,1.77
+Educational Services,61,41.3,3.85
+Health Care,621-623,51.13,0.72
+Social Assistance,624,46.85,8.43
+"Arts, Entertainment, and Recreation",71,33.55,3.16
+Accommodation and Food Services,72,23.28,0.52
+"Other Services, Except Public Administration",81,27.82,1.38

@@ -1,0 +1,24 @@
+Industry,NAICS,Q1_r54_p,Q1_r54_p_se
+"Total U.S., private sector",00,42.88,0.43
+"Agriculture, Forestry, Fishing and Hunting",11,33.34,2.53
+"Mining, Quarrying, and Oil and Gas Extraction",21,54.7,7.28
+Utilities,22,13.55,1.8
+Construction,23,41.98,0.99
+Manufacturing,31-33,53.97,0.92
+Wholesale Trade,42,50.95,1.8
+Retail Trade,44-45,39.86,1.13
+Transportation and Warehousing (excluding Scheduled Air Transportation and Truck Transportation),48-49A,46.13,3.72
+Scheduled Air Transportation,4811,65.0,2.25
+Truck Transportation,484,51.55,4.04
+Information,51,43.9,4.2
+Finance and Insurance,52,31.37,1.97
+Real Estate and Rental and Leasing,53,30.2,2.39
+Professional and Technical Services,54,37.07,1.27
+Management of Companies and Enterprises,55,25.02,2.23
+Administrative and Waste Services,56,43.12,1.92
+Educational Services,61,50.35,3.27
+Health Care,621-623,50.14,1.28
+Social Assistance,624,27.1,2.12
+"Arts, Entertainment, and Recreation",71,48.45,3.8
+Accommodation and Food Services,72,56.05,1.52
+"Other Services, Except Public Administration",81,43.75,1.95

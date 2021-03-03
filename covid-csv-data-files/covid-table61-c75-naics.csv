@@ -1,0 +1,24 @@
+Industry,NAICS,Q3_r75_p,Q3_r75_p_se
+"Total U.S., private sector",00,47.99,0.45
+"Agriculture, Forestry, Fishing and Hunting",11,24.08,2.34
+"Mining, Quarrying, and Oil and Gas Extraction",21,34.41,3.13
+Utilities,22,33.2,2.8
+Construction,23,47.41,0.96
+Manufacturing,31-33,52.54,0.91
+Wholesale Trade,42,45.88,1.8
+Retail Trade,44-45,52.25,1.15
+Transportation and Warehousing (excluding Scheduled Air Transportation and Truck Transportation),48-49A,54.22,2.15
+Scheduled Air Transportation,4811,47.71,2.98
+Truck Transportation,484,38.05,3.35
+Information,51,39.9,4.08
+Finance and Insurance,52,37.5,1.89
+Real Estate and Rental and Leasing,53,42.51,2.34
+Professional and Technical Services,54,34.34,1.4
+Management of Companies and Enterprises,55,34.99,2.38
+Administrative and Waste Services,56,44.74,1.94
+Educational Services,61,53.23,2.51
+Health Care,621-623,56.45,1.21
+Social Assistance,624,60.25,5.99
+"Arts, Entertainment, and Recreation",71,68.68,3.59
+Accommodation and Food Services,72,67.12,1.41
+"Other Services, Except Public Administration",81,50.27,2.04

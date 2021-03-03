@@ -1,0 +1,24 @@
+Industry,NAICS,Q6_r59_p,Q6_r59_p_se,Q6_r59_estab,Q6_r59_estab_se,Q6_r59_pemp,Q6_r59_pemp_se,Q6_r59_emp,Q6_r59_emp_se
+"Total U.S., private sector",00,13.85,0.23,1170973.0,19740.0,28.07,0.43,35447235.0,543512.0
+"Agriculture, Forestry, Fishing and Hunting",11,10.55,1.89,11039.0,1977.0,42.21,3.8,539981.0,48624.0
+"Mining, Quarrying, and Oil and Gas Extraction",21,12.54,1.16,3833.0,355.0,22.72,3.23,153430.0,21815.0
+Utilities,22,26.31,3.4,4841.0,626.0,48.56,1.84,266534.0,10088.0
+Construction,23,11.27,0.34,87966.0,2675.0,24.89,1.11,1868266.0,83087.0
+Manufacturing,31-33,19.11,0.37,65703.0,1266.0,35.57,1.01,4570940.0,129488.0
+Wholesale Trade,42,19.21,0.9,111817.0,5215.0,33.71,1.89,1996641.0,111687.0
+Retail Trade,44-45,15.2,0.44,154594.0,4520.0,28.77,1.56,4529433.0,244933.0
+Transportation and Warehousing (excluding Scheduled Air Transportation and Truck Transportation),48-49A,17.04,2.01,19182.0,2266.0,27.38,3.18,967347.0,112213.0
+Scheduled Air Transportation,4811,20.35,2.56,487.0,61.0,31.21,3.11,143556.0,14297.0
+Truck Transportation,484,11.47,2.09,15201.0,2768.0,23.85,2.44,366570.0,37569.0
+Information,51,12.24,1.56,21385.0,2721.0,30.16,3.43,868382.0,98872.0
+Finance and Insurance,52,20.81,1.12,100364.0,5417.0,36.05,1.97,2185793.0,119540.0
+Real Estate and Rental and Leasing,53,12.89,1.21,51887.0,4855.0,26.94,2.37,623839.0,54895.0
+Professional and Technical Services,54,11.29,0.58,134710.0,6869.0,24.82,2.16,2385665.0,207589.0
+Management of Companies and Enterprises,55,21.19,2.81,14188.0,1879.0,41.12,2.59,997552.0,62743.0
+Administrative and Waste Services,56,11.98,0.93,63605.0,4935.0,21.38,2.28,2006541.0,214088.0
+Educational Services,61,9.98,1.47,12187.0,1796.0,30.67,2.35,910572.0,69797.0
+Health Care,621-623,16.68,0.42,116353.0,2943.0,32.0,1.15,5203142.0,186900.0
+Social Assistance,624,20.17,5.66,42766.0,12009.0,30.12,1.87,1019970.0,63246.0
+"Arts, Entertainment, and Recreation",71,7.17,1.33,10582.0,1955.0,16.97,2.19,414302.0,53527.0
+Accommodation and Food Services,72,11.12,0.37,78890.0,2605.0,18.96,0.79,2690232.0,112529.0
+"Other Services, Except Public Administration",81,8.37,0.63,49393.0,3735.0,17.19,1.24,738548.0,53337.0
